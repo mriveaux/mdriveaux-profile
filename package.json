@@ -1,0 +1,14 @@
+{
+  "name": "mdriveaux-profile",
+  "version": "1.0.0",
+  "description": "My personal profile",
+  "main": "js/index.js",
+  "repository": "https://github.com/mriveaux/mdriveaux-profile.git",
+  "author": "Ing. Miguel Díaz Riveaux <mdriveaux2015@gmail.com>",
+  "license": "GPLv2",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "feather-icons": "^4.28.0",
+    "jquery": "^3.6.0"
+  }
+}
